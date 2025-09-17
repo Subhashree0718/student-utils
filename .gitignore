@@ -1,0 +1,10 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
