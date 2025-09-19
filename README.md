@@ -1,4 +1,4 @@
-# Student Utils — Subha
+# Student Utils
 
 🚀 A simple Java project to practice Git & GitHub workflows.  
 
